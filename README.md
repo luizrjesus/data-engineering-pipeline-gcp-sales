@@ -81,7 +81,7 @@ Demonstrar conhecimentos em engenharia de dados, incluindo:
 ---
 
 ## 📎 Dashboard
-🔗 (Em Desenvolvimento, logo subo o link)
+🔗 https://lookerstudio.google.com/reporting/b4dfbcff-231b-4eef-9ef3-f20cab0883b1
 
 ---
 
