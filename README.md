@@ -58,7 +58,7 @@ O projeto possui sistema de logs para captura de erros durante execução do pip
 ---
 
 ## ⏰ Automação
-Pipeline automatizado via Cloud Scheduler executando diariamente às 05:00.
+Função criando pelo Cloud Funcion onde ativa a execução do Pipeline automatizado via Cloud Scheduler executando diariamente às 05:00.
 
 ---
 
