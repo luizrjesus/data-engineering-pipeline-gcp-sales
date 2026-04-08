@@ -1,0 +1,8 @@
+Dados carregados com sucesso
+Nulos removidos
+Duplicados removidos
+Data padronizada
+Dimensão cliente criada
+Dimensão produto criada
+Tabela fato criada
+Arquivos salvos com sucesso

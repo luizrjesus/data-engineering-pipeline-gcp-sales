@@ -1,0 +1,4 @@
+Dados carregados com sucesso
+Fato Vendas carregada
+Dim_Product carregada
+Dim_Customer carregada

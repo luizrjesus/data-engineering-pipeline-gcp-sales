@@ -1,0 +1,1 @@
+Erro ao carregar o arquivo. Verifique o log: Erro ao ler o arquivo: [Errno 2] No such file or directory: '/content/drive/MyDrive/data_pipeline/raw/sales_raw_erro.csv'
