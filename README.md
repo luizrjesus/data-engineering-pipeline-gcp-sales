@@ -52,6 +52,16 @@ O pipeline foi estruturado em camadas:
 
 ---
 
+## 🧾 Logs
+O projeto possui sistema de logs para captura de erros durante execução do pipeline.
+
+---
+
+## ⏰ Automação
+Pipeline automatizado via Cloud Scheduler executando diariamente às 05:00.
+
+---
+
 ## 📊 Principais Análises
 * Evolução das vendas ao longo do tempo
 * Ranking de produtos mais vendidos
