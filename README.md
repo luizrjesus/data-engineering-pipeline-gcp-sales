@@ -5,9 +5,9 @@ Pipeline de engenharia de dados utilizando GCP (BigQuery), Python e Looker Studi
 
 ## 📌 Sobre o Projeto
 
-Este projeto simula um cenário real de engenharia de dados, onde foi desenvolvido um pipeline completo para ingestão, transformação e análise de dados de vendas.
+Este projeto simula um cenário real de engenharia de dados, onde foi desenvolvido um pipeline completo para ingestão, transformação e análise de dados de vendas, pipeline orquestrados pelo Cloud Function e Cloud Schedule e estrutura de logs por cada ação de cada pipeline.
 
-O objetivo é demonstrar na prática a construção de um fluxo de dados moderno utilizando ferramentas em nuvem.
+O objetivo é demonstrar na prática a construção de um fluxo de dados moderno utilizando ferramentas 100% em nuvem.
 
 ---
 
@@ -26,6 +26,8 @@ O pipeline foi estruturado em camadas:
 * Google BigQuery → Data Warehouse
 * Google Drive → armazenamento inicial (RAW)
 * Looker Studio → visualização de dados
+* Cloud Function → Função que parametriza os arquivos python para execução
+* Cloud Scheduler → Orquestração de execução do pipeline
 
 ---
 
