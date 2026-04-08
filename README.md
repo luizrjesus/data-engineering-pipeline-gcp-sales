@@ -78,6 +78,8 @@ Demonstrar conhecimentos em engenharia de dados, incluindo:
 * Construção de pipelines
 * Processos de ETL/ELT
 * Modelagem de dados
+* Automatização de pipelines
+* Gravação de Logs dos pipelines
 * Integração com ferramentas de visualização
 
 ---
